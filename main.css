@@ -136,12 +136,23 @@ nav {
   align-items: center;
 }
 
-.contact-section > a {
+.contact-link {
+  display: flex;
+}
+
+.contact-section > .contact-link > a {
   font-size: 72px;
   letter-spacing: -1px;
   margin-top: 3vh;
 }
 
-.contact-section > a:hover {
+.contact-section > .contact-link > a:hover {
   border-bottom: #0f141e 7px solid;
+}
+
+.contact-section > .contact-link > a > img {
+  height: 52px;
+  width: 52px;
+  padding-top: 10px;
+  margin-left: 10px;
 }
