@@ -156,3 +156,40 @@ nav {
   padding-top: 10px;
   margin-left: 10px;
 }
+
+/*********************/
+/***** FOOTER *****/
+/********************/
+
+footer {
+  border-top: #878a8f21 1px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+footer div {
+  text-align: center;
+}
+
+footer div p {
+  margin-top: 10px;
+}
+
+footer div p span {
+  font-weight: 100;
+  letter-spacing: 1px;
+  color: #878a8f;
+}
+
+.copyright {
+  margin-top: 40px;
+  width: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #878a8f;
+  font-size: 13px;
+}
