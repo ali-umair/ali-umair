@@ -8,21 +8,21 @@ nav {
     background-color: rgb(65, 65, 65);
     height: 12vh;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 0.5fr 0.5fr;
     gap: 1px;
     border-bottom: 1px solid rgb(65, 65, 65);
 }
 
-nav div {
+nav > div {
     background-color: rgb(11, 11, 49);
 }
 
-#nav-inner-grid {
+/* #nav-inner-grid {
     background-color: rgb(65, 65, 65);
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1px;
-}
+} */
 
 #main {
     background-color: rgb(65, 65, 65);
