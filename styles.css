@@ -10,6 +10,14 @@ body {
   color: #747083;
 }
 
+main {
+  height: 100vbh;
+}
+
+/* main.two {
+  display: none;
+} */
+
 h3 {
   font-family: 'Archivo Black', sans-serif;
   letter-spacing: -0.1rem;
