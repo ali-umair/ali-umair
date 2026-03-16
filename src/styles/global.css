@@ -1,1 +1,18 @@
 @import "tailwindcss";
+
+#cursor-glow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 900px;
+    height: 900px;
+    pointer-events: none;
+    background: radial-gradient(circle,
+            rgba(150, 150, 255, 0.1) 0%,
+            rgba(200, 197, 255, 0) 70%);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    transition: opacity 0.3s ease;
+    mix-blend-mode: screen;
+}
