@@ -1,43 +1,35 @@
-# Astro Starter Kit: Minimal
+# 👋 Hi, I'm Umair Ali
 
-```sh
-npm create astro@latest -- --template minimal
-```
+## 🚀 Software Engineer
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+I'm a passionate Software Engineer with 3+ years of experience building scalable web applications across fintech, logistics, and other domains. I specialize in Angular for frontend development, with solid backend expertise in Java, Spring Boot, and databases (MySQL, PostgreSQL, MongoDB).
 
-## 🚀 Project Structure
+### 💼 Currently
 
-Inside of your Astro project, you'll see the following folders and files:
+**Senior Software Engineer** at MFSYS Technologies
+- Leading development of a B2B logistics security platform with real-time GPS tracking and route prediction
+- Maintaining core banking systems for microfinance institutions
+- Building user-friendly frontends for complex financial workflows
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+### 🛠️ Tech Stack
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+**Frontend:** Angular, Tailwind CSS, TypeScript  
+**Backend:** Java, Spring Boot, WebSocket  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Tools:** Git, Docker, REST APIs
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### 📁 Featured Projects
 
-Any static assets, like images, can be placed in the `public/` directory.
+- [**Cargo Guard**](https://github.com/ali-umair) - B2B logistics security platform with real-time GPS tracking and driver verification
+- [**CiiHive**](https://github.com/ali-umair) - Cloud-based digital banking solution for MFIs and credit unions
+- [**Loan Leaf**](https://github.com/ali-umair) - Multi-stage loan application frontend built with Angular
 
-## 🧞 Commands
+### 📫 Connect
 
-All commands are run from the root of the project, from a terminal:
+[![GitHub](https://img.shields.io/badge/GitHub-ali--umair-181717?style=flat&logo=github)](https://github.com/ali-umair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/umair-ali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-06B6D4?style=flat&logo=astro)](https://ali-umair.github.io)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+*This portfolio is built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/)*
